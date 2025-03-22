@@ -50,10 +50,10 @@ I've been developing web systems for over **2 years**, with a focus on modern we
 
 🔹 **Features:** Prediction of Pregnancy for next year based on the regression/trend, The Prediction of Population Growth with the help of ARIMA Modeling, Report Generation, Mapping for every households within Balingasag
 
-🔹 **Live Demo:** [View Here](promap.srcbitsys.io) 
+🔹 **Live Demo:** [View Here](https://promap.srcbitsys.io/) 
 
 ### 🚀 **Project 2: [Faculty Evaluation System](#)**
-> Another cool project worth checking out!
+> Online Faculty Evaluation it creates the questions dynamically in terms of changes and storing the ratings per students from their respective Instructors
 
 🔹 **Tech Stack:** Laravel, MySQL, Bootstrap5, HTML/CSS, Javascript
 
