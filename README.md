@@ -43,20 +43,26 @@ I've been developing web systems for over **2 years**, with a focus on modern we
 
 ## 📂 Featured Projects
 
-### 🏆 **Project 1: [Project Name](#)**
+### 🏆 **Project 1: [Balingasag Profiling System](#)**
 > A brief description of what this project does. 
 
-🔹 **Tech Stack:** React, Node.js, Express, MongoDB  
-🔹 **Features:** Feature 1, Feature 2, Feature 3  
-🔹 **Live Demo:** [View Here](#) | 🔹 **Repo:** [GitHub Link](#)  
+🔹 **Tech Stack:** Laravel, MySQL, Boostrap5, HTML/CSS, Javascript
+🔹 **Features:** Prediction of Pregnancy for next year based on the regression/trend, The Prediction of Population Growth with the help of ARIMA Modeling, Report Generation
+🔹 **Live Demo:** [View Here](promap.srcbitsys.io) | 🔹 
 
-### 🚀 **Project 2: [Project Name](#)**
+### 🚀 **Project 2: [Faculty Evaluation System](#)**
 > Another cool project worth checking out!
 
-🔹 **Tech Stack:** Laravel, MySQL, TailwindCSS  
-🔹 **Features:** Feature 1, Feature 2, Feature 3  
-🔹 **Live Demo:** [View Here](#) | 🔹 **Repo:** [GitHub Link](#)  
+🔹 **Tech Stack:** Laravel, MySQL, Bootstrap5, HTML/CSS, Javascript
+🔹 **Features:** Report Generation, Overall Rating of Faculty
+🔹 **Live Demo:** [View Here](https://faculty-eval.srcbitsys.io/) 
 
+### 🚀 **Project 2: [SmartStock System](#)**
+> Data Management of Sales Report and Report Generation
+
+🔹 **Tech Stack:** Laravel, MySQL, Bootstrap5, HTML/CSS, Javascript
+🔹 **Features:** Report Generation, Tracking of Stocks and Consumed Pizza, Replenishment of Store stocks based on the previous consumed pizza
+🔹 **Github Repo:** [View Here](https://github.com/jampoool/Santinos) 
 ---
 
 ## 📊 GitHub Stats
