@@ -2,17 +2,17 @@
 
 ---
 
-### 🌐 Web Developer | 💻 Tech Enthusiast
+### 🌐 Web Developer | 📱 Social Media Content Manager | 🖇 Virtual Assistant | 💻 Tech Enthusiast  
 
-I've been developing web systems for over **2 years**, with a focus on modern web technologies. Passionate about building scalable, efficient, and user-friendly applications.
+I’ve been developing web systems for over **2 years**, focusing on modern web technologies. Alongside my programming journey, I also manage **social media content creation and scheduling**, engage with online communities, and provide **virtual assistant support** to help businesses stay organized and consistent.  
 
 📬 **Contact me at:** [janpauldaguman2002@gmail.com](mailto:janpauldaguman2002@gmail.com)  
 🧠 **Currently learning:** Laravel Framework  
-🤝 **Open to collaboration on:** Mobile Application Development  
+🤝 **Open to collaboration on:** Web Development, Social Media Management, and VA tasks  
 
 ---
 
-## 🚀 Skills
+## 🚀 Skills  
 
 ### **💻 Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -31,48 +31,55 @@ I've been developing web systems for over **2 years**, with a focus on modern we
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+### **📱 Social Media & VA Skills**
+- Content Creation & Scheduling  
+- Caption Writing & Engagement  
+- Basic Graphic Editing (Canva, Photoshop)  
+- Inbox & Comment Management  
+- Research & Data Entry  
+- Calendar & Task Organization  
+
 ### **🛠 Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime-FF9800?style=flat&logo=sublime-text&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects  
 
 ### 🏆 **Project 1: [Balingasag Profiling System](#)**
 > Resident Profiling made it easy with the tap of your finger and it generates directly the Report they manually do with the system it can generate report directly based on their interview per house. 
 
-🔹 **Tech Stack:** Laravel, MySQL, Boostrap5, HTML/CSS, Javascript
+🔹 **Tech Stack:** Laravel, MySQL, Boostrap5, HTML/CSS, Javascript  
+🔹 **Features:** Prediction of Pregnancy for next year based on regression/trend, Prediction of Population Growth with ARIMA Modeling, Report Generation, Household Mapping  
+🔹 **Live Demo:** [View Here](https://promap.srcbitsys.io/)  
 
-🔹 **Features:** Prediction of Pregnancy for next year based on the regression/trend, The Prediction of Population Growth with the help of ARIMA Modeling, Report Generation, Mapping for every households within Balingasag
-
-🔹 **Live Demo:** [View Here](https://promap.srcbitsys.io/) 
+---
 
 ### 🚀 **Project 2: [Faculty Evaluation System](#)**
-> Online Faculty Evaluation it creates the questions dynamically in terms of changes and storing the ratings per students from their respective Instructors
+> Online Faculty Evaluation that creates the questions dynamically in terms of changes and stores the ratings per students from their respective instructors.
 
-🔹 **Tech Stack:** Laravel, MySQL, Bootstrap5, HTML/CSS, Javascript
+🔹 **Tech Stack:** Laravel, MySQL, Bootstrap5, HTML/CSS, Javascript  
+🔹 **Features:** Report Generation, Overall Faculty Rating  
+🔹 **Live Demo:** [View Here](https://faculty-eval.srcbitsys.io/)  
 
-🔹 **Features:** Report Generation, Overall Rating of Faculty
-
-🔹 **Live Demo:** [View Here](https://faculty-eval.srcbitsys.io/) 
+---
 
 ### 🚀 **Project 3: [SmartStock System](#)**
 > Data Management of Sales Report and Report Generation
 
-🔹 **Tech Stack:** Laravel, MySQL, Bootstrap5, HTML/CSS, Javascript
-
-🔹 **Features:** Report Generation, Tracking of Stocks and Consumed Pizza, Replenishment of Store stocks based on the previous consumed pizza
-
-🔹 **Github Repo:** [View Here](https://github.com/jampoool/Santinos) 
+🔹 **Tech Stack:** Laravel, MySQL, Bootstrap5, HTML/CSS, Javascript  
+🔹 **Features:** Report Generation, Tracking of Stocks and Consumed Pizza, Replenishment of Store Stocks based on previous consumption  
+🔹 **GitHub Repo:** [View Here](https://github.com/jampoool/Santinos)  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jampoool&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -84,7 +91,7 @@ I've been developing web systems for over **2 years**, with a focus on modern we
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect with Me  
 
 <p align="left">
 <a href="https://github.com/jampoool" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -96,6 +103,6 @@ I've been developing web systems for over **2 years**, with a focus on modern we
 
 ---
 
-✨ **“Code, Create, and Innovate”** ✨
+✨ **“Code, Create, Manage, and Innovate”** ✨  
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jampoool.readme)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jampoool.readme)  
