@@ -4,7 +4,7 @@
 
 ### 🌐 Web Developer | 📱 Social Media Content Manager | 🖇 Virtual Assistant | 💻 Tech Enthusiast  
 
-I’ve been developing web systems for over **2 years**, focusing on modern web technologies. Alongside my programming journey, I also manage **social media content creation and scheduling**, engage with online communities, and provide **virtual assistant support** to help businesses stay organized and consistent.  
+I’ve been developing web systems for over **3 years**, focusing on modern web technologies. Alongside my programming journey, I also manage **social media content creation and scheduling**, engage with online communities, and provide **virtual assistant support** to help businesses stay organized and consistent.  
 
 📬 **Contact me at:** [janpauldaguman2002@gmail.com](mailto:janpauldaguman2002@gmail.com)  
 🧠 **Currently learning:** Laravel Framework  
